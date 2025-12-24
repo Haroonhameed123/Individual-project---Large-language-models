@@ -1,4 +1,4 @@
-IMDb Sentiment Analysis Using Fine-Tuned BERT
+**IMDb Sentiment Analysis Using Fine-Tuned BERT**
 
 This project applies sentiment analysis to the IMDb movie reviews dataset using a fine-tuned BERT model. The task is a binary classification problem where reviews are classified as positive or negative. A Logistic Regression model using TF-IDF features is also included as a baseline for comparison.
 
